@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "Natural herbs and wellness products on a clean background.",
+      "imageUrl": "https://images.unsplash.com/photo-1503192259632-12154871ab1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxuYXR1cmUlMjB3ZWxsbmVzc3xlbnwwfHx8fDE3NjI4MzIzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nature wellness"
+    },
+    {
+      "id": "hero-2",
+      "description": "A collection of herbal medicine ingredients.",
+      "imageUrl": "https://images.unsplash.com/photo-1545840716-c82e9eec6930?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZXJiYWwlMjBtZWRpY2luZXxlbnwwfHx8fDE3NjI3NjA4OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "herbal medicine"
+    },
+    {
+      "id": "hero-3",
+      "description": "A serene landscape representing natural purity.",
+      "imageUrl": "https://images.unsplash.com/photo-1662189793032-ccb6135a9159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzZXJlbmUlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzYyODE4MzA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "serene landscape"
+    },
+    {
+      "id": "product-1",
+      "description": "A bottle of herbal hair oil.",
+      "imageUrl": "https://images.unsplash.com/photo-1623826538345-192361e2d4cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b2lsJTIwYm90dGxlfGVufDB8fHx8MTc2Mjc4OTg2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oil bottle"
+    },
+    {
+      "id": "product-2",
+      "description": "A jar of natural face cream.",
+      "imageUrl": "https://images.unsplash.com/photo-1631438406588-3a079c32b864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjcmVhbSUyMGphcnxlbnwwfHx8fDE3NjI3NjIxNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cream jar"
+    },
+    {
+      "id": "product-3",
+      "description": "A bottle of herbal wellness capsules.",
+      "imageUrl": "https://images.unsplash.com/photo-1606940743881-b33f4b04d661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoZXJiYWwlMjBjYXBzdWxlc3xlbnwwfHx8fDE3NjI4MzIzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "herbal capsules"
+    },
+    {
+      "id": "product-4",
+      "description": "A bottle of Ayurvedic cough syrup.",
+      "imageUrl": "https://images.unsplash.com/photo-1592272072940-cde40abbadfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzeXJ1cCUyMGJvdHRsZXxlbnwwfHx8fDE3NjI4MzIzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "syrup bottle"
+    },
+    {
+      "id": "product-5",
+      "description": "A natural skin care product.",
+      "imageUrl": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxza2luJTIwY2FyZXxlbnwwfHx8fDE3NjI4MzIzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "skin care"
+    },
+    {
+      "id": "product-6",
+      "description": "A bottle of revitalizing hair oil.",
+      "imageUrl": "https://images.unsplash.com/photo-1608571423539-e951b9b3871e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoYWlyJTIwb2lsfGVufDB8fHx8MTc2MjgzMjM1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hair oil"
+    },
+    {
+      "id": "product-7",
+      "description": "A health supplement bottle.",
+      "imageUrl": "https://images.unsplash.com/photo-1664786908068-e435ba6edb89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxoZWFsdGglMjBzdXBwbGVtZW50fGVufDB8fHx8MTc2MjgzMjM1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "health supplement"
+    },
+    {
+      "id": "product-8",
+      "description": "A generic Ayurvedic product.",
+      "imageUrl": "https://images.unsplash.com/photo-1614858819016-2d5e6006f29a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxheXVydmVkaWMlMjBwcm9kdWN0fGVufDB8fHx8MTc2MjgzMjM1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ayurvedic product"
+    }
+  ]
+}
