@@ -1,6 +1,6 @@
 # VaidClone - A Next.js E-commerce Application
 
-This is a modern, full-stack e-commerce application built with Next.js, TypeScript, and Tailwind CSS. It's designed to be a professional and elegant clone of Vaidban, an Ayurvedic products store.
+This is a modern, full-stack e-commerce application built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Getting Started
 
